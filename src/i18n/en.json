@@ -1,0 +1,72 @@
+{
+  "navbar": {
+    "title" : "Wol Assistant",
+    "homeSectionTitle": "Home",
+    "aboutSectionTitle": "About",
+    "setupSectionTitle": "Getting Started",
+    "featuresSectionTitle": "Features"
+  },
+  "hero": {
+    "title": "Turn on your computer with a single click",
+    "subtitle": "This app allow you to have all the power of an smart turn on in the palm of your hand through the use of your smartphone. Moreover, you can use Google Assistant to turn on your computer with your voice, enjoying this incredible feature without cumbersome setups and intermediate software."
+  },
+  "about": {
+    "title": "Easy To Manage All Your computers with WoL Assistant",
+    "paragraph1": "Who has not thought at some point of turning on their computer with a simple click on their smartphone? Wake on lan Assistant allows you to make your dreams of turning on your computer remotely come true, but that is not all, you can use Google Assistant and with a simple voice command you can also turn on your computer.",
+    "paragraph2": "Get the full power of automation and download WoL Assistant on Google Play."
+  },
+  "setup": {
+    "section_title": "Few steps to Setup",
+    "1": {
+      "title": "Download and Install",
+      "text": "Download WoL Assistant app in Google Play and install it for enjoy all the available features."
+    },
+    "2": {
+      "title": "Sign-in",
+      "text": "Sign in using your Google account to save all your history and share it between all your devices."
+    },
+    "3": {
+      "title": "Add your computer",
+      "text": "Add a new computer by giving it a name and the MAC address of the computer. To get the MAC address of your computer use <span> ipconfig /all </span> in Windows systems or <span> ifconfig -a </span> in Unix systems."
+    },
+    "4": {
+      "title": "Turn on your computer",
+      "text": "Turn on your computer by clicking the turn on button on the computer list. Remember to enable the Wake on Lan feature on your BIOS/UEFI configuration."
+    }
+  },
+  "features" : {
+    "title": "Enjoy the wonderful features that WoL offers you",
+    "text": "Get the most out of your productivity using this magnificent application that allows you to start your computer remotely. All seasoned with a brilliant design and with the possibility of using both Google Assistant and the application itself to turn on your computer.",
+    "1": {
+      "title": "Simple and useful",
+      "text": "Useful application designed with material design and simple colors so that you get your maximum productivity."
+    },
+    "2": {
+      "title": "Google Assistant Ready",
+      "text": "WoL provides you the feature of turn on your computer with a simple voice command through Google Assistant."
+    },
+    "3": {
+      "title": "Unlimited Computers",
+      "text": "Wol allows you to store an unlimited number of computers to turn on in the application itself."
+    },
+    "4": {
+      "title": "Sync Between Devices",
+      "text": "Wol stores the application settings to be used on different devices such as smartphones, tablets and Google Assistant."
+    }
+  },
+  "footer": {
+    "appName" : "WoL Assistant",
+    "linksTitle" : "Useful Links",
+    "downloadTitle" : "Download",
+    "homeSectionTitle": "Home",
+    "aboutSectionTitle": "About",
+    "setupSectionTitle": "Getting Started",
+    "featuresSectionTitle": "Features",
+    "contactSectionTitle": "Contact",
+    "legalDocumentsTitle": "Policies",
+    "privacyPolicyEnTitle": "Privacy Policy - En",
+    "privacyPolicyEsTitle": "Privacy Policy - Es",
+    "termsOfServiceEnTitle": "Terms of Service Policy - En",
+    "termsOfServiceEsTitle": "Terms of Service Policy - Es"
+  }
+}
