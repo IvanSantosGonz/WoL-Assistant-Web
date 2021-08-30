@@ -48,7 +48,7 @@
                   <!-- Single Work -->
                   <div class="single-work d-inline-block text-center p-4">
                      <h3 class="mb-2">{{ $t('setup.3.title') }}</h3>
-                     <p v-html="$t('setup.3.text')">{{ $t('setup.3.text') }}</p>
+                     <p>{{ $t('setup.3.text') }}</p>
                   </div>
                </a>
             </div>
